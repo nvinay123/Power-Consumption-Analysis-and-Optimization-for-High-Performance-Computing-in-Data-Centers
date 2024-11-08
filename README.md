@@ -1,3 +1,4 @@
+Explanation of Each of the Files
 1. Plot.ipynb
   Objective: Visualizes R-squared values for each rack across different days for a specific sensor.
   Steps:
@@ -20,12 +21,14 @@
   Splits the data into training and testing sets.
   Trains a Random Forest model and calculates error metrics for each day.
   Aggregates and displays results for each interval.
+
+
 Implementation Outline
-  Data Loading & Preprocessing:
-    Load sensor data for each rack and interval from CSV files.
-    Process date and time to compute total seconds and day of the year.
-    Convert values to numeric, handling missing values.
-  Model Training & Metric Calculation:
-    Implement Random Forest and AdaBoost regression models on the sensor data with an 80:20 train-test split.
-    Compute metrics: Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Square Error (RMSE), and R-squared.
-    Tabulate the results for each sensor.
+1. Data Loading & Preprocessing:
+   Load sensor data for each rack and interval from CSV files.
+   Process date and time to compute total seconds and day of the year.
+   Convert values to numeric, handling missing values.
+2. Model Training & Metric Calculation:
+   Implement Random Forest and AdaBoost regression models on the sensor data with an 80:20 train-test split.
+   Compute metrics: Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Square Error (RMSE), and R-squared.
+   Tabulate the results for each sensor.
