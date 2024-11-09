@@ -37,3 +37,11 @@ Implementation Outline
   Implement Random Forest and AdaBoost regression models on the sensor data with an 80:20 train-test split.
   Compute metrics: Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Square Error (RMSE), and R-squared.
   Tabulate the results for each sensor.
+
+Model Comparision:
+  ADA Boost and Random Forest is Compared:
+  ![1](https://github.com/user-attachments/assets/3ece44e6-7c03-424c-ade3-7b4fb0e11247)
+  ![2](https://github.com/user-attachments/assets/a5f13090-6eb3-4ac8-a902-446c64d77742)
+  ![3](https://github.com/user-attachments/assets/6f17160a-c8d6-4d72-88f4-6443407b3fd9)
+
+
