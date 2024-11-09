@@ -40,8 +40,6 @@ Implementation Outline
 
 Model Comparision:
   ADA Boost and Random Forest is Compared:
-  ![1](https://github.com/user-attachments/assets/3ece44e6-7c03-424c-ade3-7b4fb0e11247)
-  ![2](https://github.com/user-attachments/assets/a5f13090-6eb3-4ac8-a902-446c64d77742)
-  ![3](https://github.com/user-attachments/assets/6f17160a-c8d6-4d72-88f4-6443407b3fd9)
+  ![1](https://github.com/user-attachments/assets/3ece44e6-7c03-424c-ade3-7b4fb0e11247)      ![3](https://github.com/user-attachments/assets/6f17160a-c8d6-4d72-88f4-6443407b3fd9)
 
 
