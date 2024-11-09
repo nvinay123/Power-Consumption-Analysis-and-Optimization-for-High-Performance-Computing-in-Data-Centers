@@ -40,6 +40,7 @@ Implementation Outline
 
 Model Comparision:
   ADA Boost and Random Forest is Compared:
-  ![1](https://github.com/user-attachments/assets/3ece44e6-7c03-424c-ade3-7b4fb0e11247)      ![3](https://github.com/user-attachments/assets/6f17160a-c8d6-4d72-88f4-6443407b3fd9)
+  <img width="236" alt="Voltage - Phase" src="https://github.com/user-attachments/assets/cc71a684-24f3-4d6b-8bb6-c57b9441c057">
+  <img width="234" alt="VOLTAGE" src="https://github.com/user-attachments/assets/e51b125b-8665-49d1-b288-54be5cd807b1">
 
 
